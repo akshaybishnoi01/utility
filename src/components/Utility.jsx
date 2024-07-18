@@ -79,11 +79,11 @@ const Utility = () => {
                         <img className=' max-w-[306px] w-full' src={men2} alt="#" />
                     </div>
                 </div>
-                <div className=' 2xl:hidden sm:flex hidden absolute xl:opacity-100 opacity-50 md:top-[8%] top-[2%] xl:right-[1%] right-0 -z-10'>
-                        <img className=' xl:max-w-[306px] md:max-w-[280px] max-w-[250px] w-full' src={men1} alt="#" />
+                <div className=' 2xl:hidden sm:flex hidden absolute xl:opacity-100 opacity-40 md:top-[8%] top-[6%] xl:right-[1%] right-0 -z-10'>
+                        <img className=' xl:max-w-[306px] md:max-w-[280px] max-w-[180px] w-full' src={men1} alt="#" />
                     </div>
-                    <div className='2xl:hidden md:flex hidden xl:opacity-100 opacity-50 absolute xl:left-[1%] left-0 bottom-[12%] -z-10'>
-                        <img className='xl:max-w-[306px] max-w-[280px] w-full' src={men2} alt="#" />
+                    <div className='2xl:hidden sm:flex hidden xl:opacity-100 opacity-40 absolute xl:left-[1%] left-0 lg:bottom-[12%] bottom-[3%] -z-10'>
+                        <img className='xl:max-w-[306px] md:max-w-[280px] max-w-[180px] w-full' src={men2} alt="#" />
                     </div>
             </section>
         </>
